@@ -5,7 +5,8 @@
   "background" : { "scripts": ["background.js"], "persistent": false },
   "permissions" : [
     "webNavigation",
-    "https://twitter.com/*"
+    "https://twitter.com/*",
+    "https://mobile.twitter.com/*"
    ],
   "minimum_chrome_version" : "6.0.0.0",
   "icons" : {
